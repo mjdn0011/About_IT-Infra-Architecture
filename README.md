@@ -1,2 +1,5 @@
 # About_IT-Infra-Architecture
-About_IT-Infra-Architecture
+
+## 인프라란?
+인프라 = '기반'
+인프라 구조 자체는 복잡하지만, 전문가에 의해 관리되고 있어서 사용자는 그 구조를 이해하지 않고도 간단히 이용할 수 있다는 특징이 있음
